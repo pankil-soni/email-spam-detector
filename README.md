@@ -64,3 +64,4 @@ Contributions are welcome! Please fork the repository and create a pull request.
 This project is created by pankil soni :
 - github: https://github.com/pankil-soni
 - linkedin : https://www.linkedin.com/in/pankil-soni-5a0541170/
+- email : pmsoni2016@gmail.com
