@@ -1,17 +1,33 @@
-# Email Spam Detection App
+# **Email Spam Detection App**
 
 This Streamlit app is a robust email spam detection tool that leverages different machine learning models to predict whether an email is spam or not. Users can choose from various models, input email text directly, or upload a CSV file containing emails for bulk prediction.
 
-# Link to the website
-link: https://email-spam-detector-m.streamlit.app/
+# Links: 
+- ### Link to the website: https://email-spam-detector-m.streamlit.app/
 
+# Table of contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [About the Project](#about-the-project)
+- [Screenshots](#screenshots)
+- [Contact](#acknowledgements)
 # Features
 - Model Accuracies: Display the accuracy scores of different machine learning models.
 - Predictions: Input email text or upload a CSV file for spam predictions.
 - User-Friendly Interface: Streamlit UI ensures an intuitive and easy-to-use experience.
 
-# Getting Started
-### Clone the repository:
+# **Getting Started**
+## Clone the repository:
+
+### Prerequisites
+1. python3
+2. git
+3. pip
+
+### Installation
 ```
 git clone https://github.com/pankil-soni/email-spam-detector.git 
 ```
