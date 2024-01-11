@@ -104,5 +104,5 @@ st.write(
 
 st.caption("This project is made by : Pankil Soni")
 st.write(
-    "For more details, check the GitHub repository: [Your GitHub Repo Link]"
+    "For more details, check the GitHub repository: [https://github.com/pankil-soni/email-spam-detector]"
 )
