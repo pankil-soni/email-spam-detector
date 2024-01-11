@@ -5,6 +5,7 @@ import re
 import string
 from nltk.corpus import stopwords
 import nltk
+nltk.download('stopwords')
 stopwd = stopwords.words('english')
 
 
